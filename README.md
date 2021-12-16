@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="display: flex; flex-wrap: wrap; justify-content: center; height: 200px">
+    <img src="./images/baby-yoda.png" />
+    <h2 style="width: 100%">Hello there 👋</h2>
+</div>
+
 
 <!--
 **tamasigerald/tamasigerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
