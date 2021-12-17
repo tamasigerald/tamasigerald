@@ -4,15 +4,18 @@
 <p align="center">I am Gerald.</p>
 <p align="center">Frontend Dev from Gijón, Spain</p>
 
-
 ## &#127760; Languages
+
+<p align="center">
 <img src="https://img.shields.io/badge/-English-1F1F1F?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spanish-1F1F1F?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Romanian-1F1F1F?&style=for-the-badge" />
 
+</p>
+
 ## 🔧 Technologies & Tools
 
-<div>
+<p align="center">
 <img src="https://img.shields.io/badge/-ReactJs-1F1F1F?logo=react&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-NextJS-1F1F1F?logo=next.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Angular-1F1F1F?logo=angular&logoColor=white&style=for-the-badge" />
@@ -35,19 +38,21 @@
 <img src="https://img.shields.io/badge/-figma-1F1F1F?logo=figma&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-d3.js-1F1F1F?logo=d3dotjs&logoColor=white&style=for-the-badge" />
 
-</div>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/tamasigerald">
+<p align="center"> 
+  <a href="https://github.com/tamasigerald">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamasigerald&hide=java,html,tex&title_color=e2e2e2&text_color=797d81&icon_color=d69e04&bg_color=1F1F1F&langs_count=3" />
 </a>
 <a href="https://github.com/tamasigerald">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamasigerald&show_icons=true&line_height=27&count_private=true&title_color=e2e2e2&text_color=797d81&icon_color=d69e04&bg_color=1F1F1F" alt="Gerald's GitHub Stats" />
 </a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tamasigerald/tamasigerald/blob/main/devcard.svg" width="400" alt="Gerald's Dev Card"/></a>
+</p>
 
+<p align="center"><a href="https://app.daily.dev/tamasigerald"><img src="https://github.com/tamasigerald/tamasigerald/blob/main/devcard.svg" width="400" alt="Gerald's Dev Card"/></a></p>
 
 <h2 align="center"><i>All the best!</i></h2>
 
