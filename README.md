@@ -46,6 +46,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamasigerald&show_icons=true&line_height=27&count_private=true&title_color=e2e2e2&text_color=797d81&icon_color=d69e04&bg_color=1F1F1F" alt="Gerald's GitHub Stats" />
 </a>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/tamasigerald/tamasigerald/blob/main/devcard.svg" width="400" alt="Gerald's Dev Card"/></a>
+
+
 <h2 align="center"><i>All the best!</i></h2>
 
 <!--
