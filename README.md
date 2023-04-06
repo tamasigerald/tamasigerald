@@ -3,6 +3,8 @@
 <h1 align="center">Hello there 👋</h1>
 <p align="center">I am Gerald.</p>
 <p align="center">Frontend Dev from Gijón, Spain</p>
+<p align="center">FE at <a href="https://www.cloudnine.se">@cloudnine</a></p>
+<p align="center">Work profile: <a href="https://github.com/tamasigerald">@geraldcloudnine</a></p>
 
 ## &#127760; Languages
 
@@ -18,21 +20,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-ReactJs-1F1F1F?logo=react&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-NextJS-1F1F1F?logo=next.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Angular-1F1F1F?logo=angular&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Sveltekit-1F1F1F?logo=svelte&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-VueJS%203-1F1F1F?logo=vue.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Typescript-1F1F1F?logo=typescript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-scss-1F1F1F?logo=sass&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-styled%20components-1F1F1F?logo=styledcomponents&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-redux-1F1F1F?logo=redux&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-nodejs-1F1F1F?logo=node.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-express-1F1F1F?logo=express&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-vscode-1F1F1F?logo=visualstudio&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-vite-1F1F1F?logo=vite&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-vercel-1F1F1F?logo=vercel&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-netlify-1F1F1F?logo=netlify&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-github-1F1F1F?logo=github&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-mongodb-1F1F1F?logo=mongodb&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-PostgreSQL-1F1F1F?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Storyblok-1F1F1F?logo=storyblok&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-strapi-1F1F1F?logo=strapi&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-openlayers-1F1F1F?logo=openlayers&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-figma-1F1F1F?logo=figma&logoColor=white&style=for-the-badge" />
