@@ -4,7 +4,7 @@
 <p align="center">I am Gerald.</p>
 <p align="center">Frontend Dev from Gijón, Spain</p>
 <p align="center">FE at <a href="https://www.cloudnine.se">@cloudnine</a></p>
-<p align="center">Work profile: <a href="https://github.com/tamasigerald">@geraldcloudnine</a></p>
+<p align="center">Work profile: <a href="https://github.com/geraldcloudnine">@geraldcloudnine</a></p>
 
 ## &#127760; Languages
 
