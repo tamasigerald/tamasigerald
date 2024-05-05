@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-Typescript-1F1F1F?logo=typescript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-scss-1F1F1F?logo=sass&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-nodejs-1F1F1F?logo=node.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Sanity-1F1F1F?logo=sanity&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Storyblok-1F1F1F?logo=storyblok&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-strapi-1F1F1F?logo=strapi&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-openlayers-1F1F1F?logo=openlayers&logoColor=white&style=for-the-badge" />
