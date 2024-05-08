@@ -46,7 +46,7 @@
 
 </p>
 
-<p align="center"><a href="https://app.daily.dev/tamasigerald"><img src="https://github.com/tamasigerald/tamasigerald/blob/main/devcard.svg" width="400" alt="Gerald's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/tamasigerald"><img src="https://api.daily.dev/devcards/v2/cYwtaqh2TOHga73SGqP5m.png?r=kx5&type=default" width="356" alt="Gerald Andrei Tamasi's Dev Card"/></a></p>
 
 <h2 align="center"><i>All the best!</i></h2>
 
