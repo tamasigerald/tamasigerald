@@ -2,9 +2,9 @@
 
 <h1 align="center">Hello there 👋</h1>
 <p align="center">I am Gerald.</p>
-<p align="center">Frontend Dev from Gijón, Spain</p>
-<p align="center">FE & Consultant at <a href="https://www.cloudnine.se">@cloudnine</a></p>
-<p align="center">Work profile: <a href="https://github.com/geraldcloudnine">@geraldcloudnine</a></p>
+<p align="center">Frontend Engineer from Gijón, Spain</p>
+<p align="center">Previously, Senior/Lead Frontend Engineer & Consultant at <a href="https://www.cloudnine.se">@cloudnine</a></p>
+<p align="center">Old Work profile: <a href="https://github.com/geraldcloudnine">@geraldcloudnine</a></p>
 
 ## &#127760; Languages
 
